@@ -22,9 +22,9 @@
 // -------------------------------
 //
 // 👉 Save this file as basics.go
-// as this file is in the folder 0_basics so first move into this folder using terminal
+// as this file is in the folder notes so first move into this folder using terminal
 // 👉 Run it with:
-//      go run basics.go
+//       go run .\notes\0_basics.go
 //
 
 package main
